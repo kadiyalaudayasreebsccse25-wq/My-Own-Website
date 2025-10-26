@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: bisque;
+}
+
+.header {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+
+.main {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+
+.footer {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
